@@ -29,8 +29,8 @@ main > img {
     padding: 2px;
     margin: 10px;
     border: 2px solid var(--blueA);
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     cursor: pointer;
     border-radius: 20px;
     opacity: 0.95;
